@@ -4,10 +4,12 @@
 *The idea for all these projects came from Codecademy's Data Science pro_ certification course.* 
 *To view each project, simply click on the title of the project and it will take you to the corresponding Jupyter notebook.*
 
-# Python Fundamentals
+## Python Fundamentals
 [Python Fundamentals - Medical Insurance Project](https://github.com/apk1991/Data-Science-Projects/blob/main/1-python-fundamentals-medical-insurance-project.ipynb)
 
 Study of [Medical Insurance Data](https://www.kaggle.com/mirichoi0218/insurance) using the knowledge of python syntax, python lists, python loops, python strings, python dictionaries and python classes.
+
+[python]
 _______________________________________________________________________________________________________________________________
 Code Challenges-
 
@@ -35,7 +37,7 @@ Creating a Master List of the paintings, their dates, and  audio tour ID's for a
 
 ______________________________________________________________________________________________________________________________________
 
-# DATA MANIPULATION WITH PANDAS
+## Data Manipulation With Pandas
 
 [Petal Power Inventory](https://github.com/apk1991/Data-Science-Projects/blob/main/5.%20Python%20Pandas%20-%20Petal%20Power%20Inventory%20Project%20(1).ipynb)
 
@@ -50,14 +52,14 @@ ________________________________________________________________________________
 Analyses of page visits funnel describing the following process - a user visits the website -> adds a product to cart -> clicks to checkout -> purchases the product.
 ______________________________________________________________________________________________________________________________
 
-# DATA WRANGLING AND TIDYING
+## Data Wrangling And Tidying
 
 [Cleaning US Census Data](https://github.com/apk1991/Data-Science-Projects/blob/main/9.%20Cleaning%20US%20Census%20Data%20(1).ipynb)
 
 Getting multiple csv files of census data into a pandas dataframe and cleaning it for further analyses.
 ____________________________________________________________________________________________________________________________
 
-# SUMMARY STATISTICS
+## Summary Statistics
 
 [Cleaning demographic census data to perform statistical calculations](https://github.com/apk1991/Data-Science-Projects/blob/main/10.%20Data%20Cleaning%20and%20Summary%20Statistics%20(1).ipynb)
 
@@ -94,7 +96,7 @@ Analyzing Company's Data to check for financial health after a global pandemic h
 
 __________________________________________________________________________________________________________________________________
 
-# DATA VISUALIZATION
+## Data Visualization
 
 [Sublime Lime's Line Graphs](https://github.com/apk1991/Data-Science-Projects/blob/main/19.%20Sublime%20Lime's%20Line%20Graphs.ipynb)
 
@@ -108,7 +110,7 @@ Exploring data from the Fifa World Cup from 1930-2014 to analyze trends and disc
  
 __________________________________________________________________________________________________________________________________
 
-# MACHINE LEARNING
+## Machine Learning
 
 [Predicting Decline in HoneyBee Production](https://github.com/apk1991/Data-Science-Projects/blob/main/23.%20Honey%20Production-Supervised%20Learning%20Linear%20Regression.ipynb)
 
