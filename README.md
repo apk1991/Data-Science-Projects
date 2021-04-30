@@ -50,7 +50,7 @@ Analyses of cost of one-bedroom apartments in three of the five New York City bo
 
 ______________________________________________________________________________________________________________________________
 
-[Economic Status and Life Expectancy](https://github.com/apk1991/Data-Science Projects/blob/main/13.%20Life%20Expectancy%20by%20Country(Quartiles%2C%20Quantiles%2C%20IQR)%20(1).ipynb)
+[Economic Status and Life Expectancy](https://github.com/apk1991/Data-Science-Projects/blob/main/13.%20Life%20Expectancy%20by%20Country(Quartiles%2C%20Quantiles%2C%20IQR)%20(1).ipynb)
 
 Analyses of the impact of a country's economic success on life expectancy by investigating a dataset containing information about the average life expectancy in 158 different countries. 
 
