@@ -22,6 +22,21 @@ Code Challenges-
 Code challenges related to Python Fundamentals - basic and advanced.
 _______________________________________________________________________________________________________________________________
 
+[Reggie's Linear Regression](https://github.com/apk1991/Data-Science-Projects/blob/main/Reggie_Linear_Regression.ipynb)
+
+Creating a function that will find a line of best fit when given a set of data.
+
+____________________________________________________________________________________________________________________________________
+
+
+[Frida Kahlo Exhibition](https://github.com/apk1991/Data-Science-Projects/blob/main/frida_project.ipynb)
+
+Creating a Master List of the paintings, their dates, and  audio tour ID's for an exhibition in a major museum.
+
+______________________________________________________________________________________________________________________________________
+
+# DATA MANIPULATION WITH PANDAS
+
 [Petal Power Inventory](https://github.com/apk1991/Data-Science-Projects/blob/main/5.%20Python%20Pandas%20-%20Petal%20Power%20Inventory%20Project%20(1).ipynb)
 
 Analyses of inventory of a chain of gardening stores named Petal Power.
@@ -34,10 +49,15 @@ ________________________________________________________________________________
 
 Analyses of page visits funnel describing the following process - a user visits the website -> adds a product to cart -> clicks to checkout -> purchases the product.
 ______________________________________________________________________________________________________________________________
+
+# DATA WRANGLING AND TIDYING
+
 [Cleaning US Census Data](https://github.com/apk1991/Data-Science-Projects/blob/main/9.%20Cleaning%20US%20Census%20Data%20(1).ipynb)
 
 Getting multiple csv files of census data into a pandas dataframe and cleaning it for further analyses.
 ____________________________________________________________________________________________________________________________
+
+# SUMMARY STATISTICS
 
 [Cleaning demographic census data to perform statistical calculations](https://github.com/apk1991/Data-Science-Projects/blob/main/10.%20Data%20Cleaning%20and%20Summary%20Statistics%20(1).ipynb)
 
@@ -74,6 +94,8 @@ Analyzing Company's Data to check for financial health after a global pandemic h
 
 __________________________________________________________________________________________________________________________________
 
+# DATA VISUALIZATION
+
 [Sublime Lime's Line Graphs](https://github.com/apk1991/Data-Science-Projects/blob/main/19.%20Sublime%20Lime's%20Line%20Graphs.ipynb)
 
 Sales Data Analyses of an online lime retailer Sublime Limes using Line Graphs.
@@ -86,21 +108,15 @@ Exploring data from the Fifa World Cup from 1930-2014 to analyze trends and disc
  
 __________________________________________________________________________________________________________________________________
 
+# MACHINE LEARNING
+
 [Predicting Decline in HoneyBee Production](https://github.com/apk1991/Data-Science-Projects/blob/main/23.%20Honey%20Production-Supervised%20Learning%20Linear%20Regression.ipynb)
 
 Investigating how the trends of the past predict the future for the honeybees.
 
 ____________________________________________________________________________________________________________________________________
 
-[Reggie's Linear Regression](https://github.com/apk1991/Data-Science-Projects/blob/main/Reggie_Linear_Regression.ipynb)
 
-Creating a function that will find a line of best fit when given a set of data.
-
-____________________________________________________________________________________________________________________________________
-
-[Frida Kahlo Exhibition](https://github.com/apk1991/Data-Science-Projects/blob/main/frida_project.ipynb)
-
-Creating a Master List of the paintings, their dates, and  audio tour ID's for an exhibition in a major museum.
 
 
 
