@@ -84,14 +84,14 @@ ________________________________________________________________________________
 
 Analyses of cost of one-bedroom apartments in three of the five New York City boroughs: Brooklyn, Manhattan, and Queens using Central Tendency
 
-`Python` `Pandas` `NumPy`
+`Python` `Pandas` `NumPy` `Scipy`
 _____________________________________________________________________________________________________________________________
 
 [Economic Status and Life Expectancy](https://github.com/apk1991/Data-Science-Projects/blob/main/13.%20Life%20Expectancy%20by%20Country(Quartiles%2C%20Quantiles%2C%20IQR)%20(1).ipynb)
 
 Analyses of the impact of a country's economic success on life expectancy by investigating a dataset containing information about the average life expectancy in 158 different countries. 
 
-`Python` `Pandas` `NumPy`
+`Python` `Pandas` `NumPy` `Matplotlib`
 ________________________________________________________________________________________________________________________________
 
 [Summary Statistics of Automobile Evaluation data](https://github.com/apk1991/Data-Science-Projects/blob/main/15.%20Summarizing%20Automobile%20Evaluation%20Data(Summary%20Statistics)%20(1).ipynb)
@@ -105,7 +105,7 @@ ________________________________________________________________________________
 
 Analyses of extensive mushroom dataset to understand the diverse array of mushrooms worldwide.
 
-`Python` `Pandas` `NumPy`
+`Python` `Pandas` `NumPy` `Seaborn`
 ________________________________________________________________________________________________________________________________
 
 [Startup Transformation](https://github.com/apk1991/Data-Science-Projects/blob/main/17.%20Startup%20Transformation%20(2).ipynb)
