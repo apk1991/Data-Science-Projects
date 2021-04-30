@@ -68,7 +68,7 @@ ________________________________________________________________________________
 
 Getting multiple csv files of census data into a pandas dataframe and cleaning it for further analyses.
 
-`Python`
+`Python` `Regex`
 ____________________________________________________________________________________________________________________________
 
 ## Summary Statistics
