@@ -37,6 +37,87 @@ ________________________________________________________________________________
 [Cleaning US Census Data](https://github.com/apk1991/Data-Science-Projects/blob/main/9.%20Cleaning%20US%20Census%20Data%20(1).ipynb)
 
 Getting multiple csv files of census data into a pandas dataframe and cleaning it for further analyses.
+____________________________________________________________________________________________________________________________
+
+[Cleaning demographic census data to perform statistical calculations](https://github.com/apk1991/Data-Science-Projects/blob/main/10.%20Data%20Cleaning%20and%20Summary%20Statistics%20(1).ipynb)
+
+Statistical Analyses of demographic census data after cleaning it to desirable shape.
+____________________________________________________________________________________________________________________________
+
+[Cost of Living in New York City](https://github.com/apk1991/Data-Science-Projects/blob/main/11.%20Central%20Tendency%20for%20Housing%20Data%20(1).ipynb)
+
+Analyses of cost of one-bedroom apartments in three of the five New York City boroughs: Brooklyn, Manhattan, and Queens using Central Tendency
+
+______________________________________________________________________________________________________________________________
+
+[Economic Status and Life Expectancy](https://github.com/apk1991/Data-Science Projects/blob/main/13.%20Life%20Expectancy%20by%20Country(Quartiles%2C%20Quantiles%2C%20IQR)%20(1).ipynb)
+
+Analyses of the impact of a country's economic success on life expectancy by investigating a dataset containing information about the average life expectancy in 158 different countries. 
+
+________________________________________________________________________________________________________________________________
+
+[Summary Statistics of Automobile Evaluation data](https://github.com/apk1991/Data-Science-Projects/blob/main/15.%20Summarizing%20Automobile%20Evaluation%20Data(Summary%20Statistics)%20(1).ipynb)
+
+Analyses of cost and physical attributes of several thousand cars.
+
+_________________________________________________________________________________________________________________________________
+
+[Exploring Mushrooms](https://github.com/apk1991/Data-Science-Projects/blob/main/16.%20Exploring%20Mushrooms(Summary%20Statistics)%20(1).ipynb)
+
+Analyses of extensive mushroom dataset to understand the duverse array of mushrooms worldwide.
+
+__________________________________________________________________________________________________________________________________
+
+[Startup Transformation](https://github.com/apk1991/Data-Science-Projects/blob/main/17.%20Startup%20Transformation%20(2).ipynb)
+
+Analyzing Company's Data to check for financial health after a global pandemic has taken the world by storm.
+
+__________________________________________________________________________________________________________________________________
+
+[Sublime Lime's Line Graphs](https://github.com/apk1991/Data-Science-Projects/blob/main/19.%20Sublime%20Lime's%20Line%20Graphs.ipynb)
+
+Sales Data Analyses of an online lime retailer Sublime Limes using Line Graphs.
+
+___________________________________________________________________________________________________________________________________
+
+[Fifa World Cup Data Analyses](https://github.com/apk1991/Data-Science-Projects/blob/main/22.%20Visualizing%20World%20Cup%20Data%20with%20Seaborn.ipynb)
+
+Exploring data from the Fifa World Cup from 1930-2014 to analyze trends and discover insights about the game.
+ 
+__________________________________________________________________________________________________________________________________
+
+[Predicting Decline in HoneyBee Production](https://github.com/apk1991/Data-Science-Projects/blob/main/23.%20Honey%20Production-Supervised%20Learning%20Linear%20Regression.ipynb)
+
+Investigating how the trends of the past predict the future for the honeybees.
+
+____________________________________________________________________________________________________________________________________
+
+[Reggie's Linear Regression](https://github.com/apk1991/Data-Science-Projects/blob/main/Reggie_Linear_Regression.ipynb)
+
+Creating a function that will find a line of best fit when given a set of data.
+
+____________________________________________________________________________________________________________________________________
+
+[Frida Kahlo Exhibition](https://github.com/apk1991/Data-Science-Projects/blob/main/frida_project.ipynb)
+
+Creating a Master List of the paintings, their dates, and  audio tour ID's for an exhibition in a major museum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
