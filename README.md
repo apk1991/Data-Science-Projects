@@ -11,20 +11,6 @@ Study of [Medical Insurance Data](https://www.kaggle.com/mirichoi0218/insurance)
 
 `Python` 
 _______________________________________________________________________________________________________________________________
-Code Challenges-
-
-[Python Functions - Code Challenges](https://github.com/apk1991/Data-Science-Projects/blob/main/2-python-functions-code-challenges.ipynb)
-
-[Python List Comprehensions - Code Challenges](https://github.com/apk1991/Data-Science-Projects/blob/main/3-python-list-comprehensions-code-challenges.ipynb)
-
-[Python Strings - Code Challenges](https://github.com/apk1991/Data-Science-Projects/blob/main/4-python-strings-code-challenges.ipynb)
-
-[Python Lambda Functions](https://github.com/apk1991/Data-Science-Projects/blob/main/6.%20Python%20Lambda%20Functions%20-%20Code%20challenges%20(1).ipynb)
-
-Code challenges related to Python Fundamentals - basic and advanced.
-
-`Python` 
-_______________________________________________________________________________________________________________________________
 
 [Reggie's Linear Regression](https://github.com/apk1991/Data-Science-Projects/blob/main/Reggie_Linear_Regression.ipynb)
 
@@ -40,6 +26,21 @@ Creating a Master List of the paintings, their dates, and  audio tour ID's for a
 `Python`
 
 ______________________________________________________________________________________________________________________________________
+
+Code Challenges-
+
+[Python Functions - Code Challenges](https://github.com/apk1991/Data-Science-Projects/blob/main/2-python-functions-code-challenges.ipynb)
+
+[Python List Comprehensions - Code Challenges](https://github.com/apk1991/Data-Science-Projects/blob/main/3-python-list-comprehensions-code-challenges.ipynb)
+
+[Python Strings - Code Challenges](https://github.com/apk1991/Data-Science-Projects/blob/main/4-python-strings-code-challenges.ipynb)
+
+[Python Lambda Functions](https://github.com/apk1991/Data-Science-Projects/blob/main/6.%20Python%20Lambda%20Functions%20-%20Code%20challenges%20(1).ipynb)
+
+Code challenges related to Python Fundamentals - basic and advanced.
+
+`Python` 
+_______________________________________________________________________________________________________________________________
 
 ## Data Manipulation With Pandas
 
@@ -62,6 +63,13 @@ Analyses of page visits funnel describing the following process - a user visits 
 `Python` `Pandas` 
 ______________________________________________________________________________________________________________________________
 
+[This is Jeopardy!](https://github.com/apk1991/Data-Science-Projects/blob/main/27.%20This%20is%20Jeopardy.ipynb)
+
+Hypotheses testing to see potential strategies to win Jeopardy.
+
+`Python` `Pandas` 
+_______________________________________________________________________________________________________________________________
+
 ## Data Wrangling And Tidying
 
 [Cleaning US Census Data](https://github.com/apk1991/Data-Science-Projects/blob/main/9.%20Cleaning%20US%20Census%20Data%20(1).ipynb)
@@ -71,6 +79,35 @@ Getting multiple csv files of census data into a pandas dataframe and cleaning i
 `Python` `Regex`
 ____________________________________________________________________________________________________________________________
 
+## Databases and SQL
+
+[Fraud Detection](https://github.com/apk1991/Data-Science-Projects/blob/main/28.%20Fraud%20Detection%20.ipynb)
+
+Identifying fraud transactions with SQL queries.
+
+`SQL`
+_____________________________________________________________________________________________________________________________
+
+[RPA Customer Segmentation](https://github.com/apk1991/Data-Science-Projects/blob/main/29.%20RPA%20Customer%20Segmentation.ipynb)
+
+Generating different lists of RPA's users according to the given criteria.
+
+`SQL`
+______________________________________________________________________________________________________________________________
+
+[Davie's Burgers Subway Ad](https://github.com/apk1991/Data-Science-Projects/blob/main/30.%20Davie's%20Burgers%20Subway%20Ad.ipynb)
+
+Analyses of special instructions data for Davie's Burgers Ad's tagline.
+
+`SQL`
+_______________________________________________________________________________________________________________________________
+
+[Analyze and Visualize Twitch Data(https://github.com/apk1991/Data-Science-Projects/blob/main/20.%20Analyze%20and%20Visualize%20Twitch%20Data%20.ipynb)
+
+Analyses and Visualization of the Twitch Gaming Data.
+
+`SQL` `Python` `NumPy` `Matplotlib`
+___________________________________________________________________________________________________________________________________
 ## Summary Statistics
 
 [Cleaning demographic census data to perform statistical calculations](https://github.com/apk1991/Data-Science-Projects/blob/main/10.%20Data%20Cleaning%20and%20Summary%20Statistics%20(1).ipynb)
@@ -128,8 +165,22 @@ ________________________________________________________________________________
 
 Exploring data from the Fifa World Cup from 1930-2014 to analyze trends and discover insights about the game.
 
-`Python` `Pandas` `NumPy` `Matplotlib`
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 __________________________________________________________________________________________________________________________________
+
+[Visualizing Loans Awarded by Kiva](https://github.com/apk1991/Data-Science-Projects/blob/main/26.%20Visualizing%20Kiva%20Data%20with%20Seaborn.ipynb)
+
+Analyses of Kiva Data that contains information about the loans provided by the organization.
+
+`Python` `Pandas` `Matplotlib` `Seaborn`
+_____________________________________________________________________________________________________________________________________
+
+[Visualizing Orion Constellation](https://github.com/apk1991/Data-Science-Projects/blob/main/Visualizing%20Orion%20Constellation.ipynb)
+
+Creating a rotate-able visualization of the position of the Orion's stars.
+
+`Python` `Matplotlib`
+______________________________________________________________________________________________________________________________________
 
 ## Machine Learning
 
