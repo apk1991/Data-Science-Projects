@@ -7,7 +7,7 @@
 ## Python Fundamentals
 [Python Fundamentals - Medical Insurance Project](https://github.com/apk1991/Data-Science-Projects/blob/main/1-python-fundamentals-medical-insurance-project.ipynb)
 
-Study of [Medical Insurance Data](https://www.kaggle.com/mirichoi0218/insurance) using the knowledge of python syntax, python lists, python loops, python strings, python dictionaries and python classes.
+Study of Medical Insurance Data using the knowledge of python syntax, python lists, python loops, python strings, python dictionaries and python classes.
 
 `Python` 
 _______________________________________________________________________________________________________________________________
@@ -102,7 +102,7 @@ Analyses of special instructions data for Davie's Burgers Ad's tagline.
 `SQL`
 _______________________________________________________________________________________________________________________________
 
-[Analyze and Visualize Twitch Data(https://github.com/apk1991/Data-Science-Projects/blob/main/20.%20Analyze%20and%20Visualize%20Twitch%20Data%20.ipynb)
+[Analyze and Visualize Twitch Data](https://github.com/apk1991/Data-Science-Projects/blob/main/20.%20Analyze%20and%20Visualize%20Twitch%20Data%20.ipynb)
 
 Analyses and Visualization of the Twitch Gaming Data.
 
