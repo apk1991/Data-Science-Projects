@@ -193,17 +193,24 @@ ________________________________________________________________________________
 
 [Tennis Ace](https://github.com/apk1991/Data-Science-Projects/blob/main/24.%20Tennis%20Ace-%20Supervised%20Learning%20Multiple%20Linear%20Regression.ipynb)
 
+Analysis of Tennis player's playing habits to determine what makes the best Tennis player.
 
+`Python` `Pandas`  `Matplotlib` `seaborn` `sklearn` `Linear Regression` 
+____________________________________________________________________________________________________________________________________
 
-[Breast Cancer Classifier](
+[Breast Cancer Classifier](https://github.com/apk1991/Data-Science-Projects/blob/main/31.%20Breast%20Cancer%20Classifier.ipynb)
 
+Predicting whether a patient has breast cancer or not!
 
+`Python` `Matplotlib` `sklearn` `KNN Classifier`
+____________________________________________________________________________________________________________________________________
 
+[Sports Vector Machine](https://github.com/apk1991/Data-Science-Projects/blob/main/33.%20Sports%20Vector%20Machine.ipynb)
 
-[Sports Vector Machine]()
+Finding the best decision boundary of the strike zone using SVM for famous baseball players.
 
-
-
+`python` `pandas` `numpy` `matplotlib` `sklearn` `SVM` 
+____________________________________________________________________________________________________________________________________
 
 
 
